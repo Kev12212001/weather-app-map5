@@ -6,3 +6,4 @@ services:
     dockerfilePath: Dockerfile
     autoDeploy: true
     buildCommand: ""
+    
